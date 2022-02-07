@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058986532752",
+    "project_id": "datingnthu",
+    "storage_bucket": "datingnthu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058986532752:android:d1b3d78ff52bb7a7699d15",
+        "android_client_info": {
+          "package_name": "com.example.udemy_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058986532752-7qu1ndbs2tj3uglh8mu7aphrtu4b6a8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrFHB5yNc0ONYBpQBXuaDyoprpTwNHbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058986532752-7qu1ndbs2tj3uglh8mu7aphrtu4b6a8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
